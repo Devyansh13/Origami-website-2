@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #00ff00;
+}
+
+.pics{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    background-color: #00FFaa;
+}
+
+.details{
+    justify-content: baseline;
+    color: #ffffff;
+}
+
+body{
+    background-image: url("https://i.ytimg.com/vi/kxfeTcty3Do/maxresdefault.jpg");
+    
+}
+
+.end{
+    background-color: yellow;
+}
